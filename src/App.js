@@ -84,8 +84,7 @@ class App extends Component {
             }}
           />
           <Route
-            exact
-            path='/'
+            exact path='/'
             render={({ history }) => {
               return <BookmarkList bookmarks={bookmarks} />
             }}
