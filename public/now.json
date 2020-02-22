@@ -1,7 +1,6 @@
 {
   "version": 2,
-  "alias": "devrees-bookmarks-app",
-  "name": "bookmarks-app",
+  "alias": "devrees-bookmarks-app-the-second",
   "routes": [
     { "handle": "filesystem" },
     { "src": "/.*", "dest": "/index.html" }
