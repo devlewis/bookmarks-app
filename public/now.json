@@ -2,7 +2,6 @@
   "version": 2,
   "alias": "devrees-bookmarks-app",
   "name": "bookmarks-app",
-  "projectId": "Qmdy1dQVieW8QYZ1bK4SZL2f7hwZeRDH5qoJgydUQzsFMt",
   "routes": [
     { "handle": "filesystem" },
     { "src": "/.*", "dest": "/index.html" }
